@@ -1,0 +1,6 @@
+@ArquitechtureFundamentals_HostAddress = http://localhost:5293
+
+GET {{ArquitechtureFundamentals_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
