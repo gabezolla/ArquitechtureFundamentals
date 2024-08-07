@@ -1,8 +1,7 @@
 ﻿namespace ArchitectureStudies.Observer
-
 {
     /// <summary>
-    /// Concrete subject
+    /// Concrete subject B
     /// </summary>
     public class MicrosoftStock : Stock
     {
